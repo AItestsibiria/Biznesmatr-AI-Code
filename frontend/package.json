@@ -1,0 +1,27 @@
+{
+  "name": "biznesmatr-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "@supabase/supabase-js": "^2",
+    "typesense": "^1.7.2",
+    "openai": "^4",
+    "tailwindcss": "^3",
+    "framer-motion": "^11",
+    "lucide-react": "^0.383.0"
+  },
+  "devDependencies": {
+    "typescript": "^5",
+    "@types/node": "^20",
+    "@types/react": "^18"
+  }
+}
