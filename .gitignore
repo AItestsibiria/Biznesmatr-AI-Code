@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+*.log
+
+# Node
+node_modules/
+.next/
+.vercel/
+npm-debug.log*
+
+# Env
+.env
+.env.local
+.env.production
+
+# Scrapy
+.scrapy/
+*.jl
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
